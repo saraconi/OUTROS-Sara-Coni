@@ -1,0 +1,11 @@
+.txt1 {
+    color: blue;
+    text-decoration: double;
+    text-align: center;
+    font-family: 'Sans Serif';
+}
+
+// corrigir 
+h:hover .txt1{
+    color : red;
+}
