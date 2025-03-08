@@ -5,7 +5,10 @@
     font-family: 'Sans Serif';
 }
 
-// corrigir 
-h:hover .txt1{
-    color : red;
+
+.txt1:hover {
+    color : pink;
+    font-size: 10px;
+    transform: rotate(90deg);
+     // ta bugado 
 }
